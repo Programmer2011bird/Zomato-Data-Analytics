@@ -1,0 +1,6 @@
+See Which "type" Is The Most Frequent : Dining
+See The Number Of Votes For Every "type" : Dining
+See How Many Do Online Orders : Mostly Don't
+See The Rating Distribution : 3.8
+See The "approx_cost" plot : Mostly People Places With Where It Costs Around 22 rupees
+See The Heatmap For How Much Every "type" Accept Online Orders Or Not : The Type That Mostly Doesn't Accept Online Orders Is Dining, But Also They Have The Most Restraunts That Accept Online Orders
